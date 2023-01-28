@@ -60,9 +60,6 @@
     padding: 0 15px;
   }
   
-  
-  /* SECTION #1
-  –––––––––––––––––––––––––––––––––––––––––––––––––– */
   .top-banner {
     color: var(--text_light);
   }
@@ -114,9 +111,6 @@
     min-height: 40px;
   }
   
-  
-  /* SECTION #2
-  –––––––––––––––––––––––––––––––––––––––––––––––––– */
   .ajax-section {
     margin: 70px 0 20px;
   }
@@ -192,9 +186,6 @@
     color: var(--red);
   }
   
-  
-  /* MQ
-  –––––––––––––––––––––––––––––––––––––––––––––––––– */
   @media screen and (max-width: 1000px) {
     body {
       padding: 30px;
@@ -252,9 +243,9 @@
   }
   
   
-  /* API Key banner
+  /* Banner
   –––––––––––––––––––––––––––––––––––––––––––––––––– */
-  .api {
+  .banner {
     background: #fffbbc;
     position: fixed;
     top: 0;
@@ -263,10 +254,10 @@
     padding: 10px;
   }
   
-  .api a {
+  .banner a {
     text-decoration: underline;
   }
   
-  .api a:hover {
+  .banner a:hover {
     text-decoration: none;
   }
