@@ -22,14 +22,14 @@ THEN I am again presented with current and future conditions for that city
 
 ## Description
 
-In the works
+An app that tells you the current weather in a city
 
 ## Screenshot
 
-![Screenshot]()
+![Screenshot](./assets/images/Screenshot%202023-02-01%20133757.png)
 
 # Link to Deployed Site
 
-In progress 
+https://christinaecb.github.io/weather-dashboard/
 
 
