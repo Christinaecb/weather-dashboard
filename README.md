@@ -26,7 +26,7 @@ An app that tells you the current weather in a city
 
 ## Screenshot
 
-![Screenshot](./assets/images/Screenshot%202023-02-01%20133757.png)
+![Screenshot](./assets/images/Screenshot.jpg)
 
 # Link to Deployed Site
 
